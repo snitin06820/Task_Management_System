@@ -1,4 +1,4 @@
-##Task Management System
+###Task Management System
 
 ### Day-by-Day Schedule for One Week
 
@@ -164,6 +164,3 @@
   COPY target/task-management-system.jar app.jar
   ENTRYPOINT ["java", "-jar", "/app.jar"]
   ```
-
-### Conclusion
-This intensive schedule compresses the project into one week with focused tasks that account for the full 1.5 hours of coding each day. Each day's tasks are structured so you can build your knowledge incrementally while advancing the project significantly. Emphasizing unit testing and documentation throughout ensures a robust understanding and presentability of your work in your portfolio! 🛠️✨ Happy coding!
