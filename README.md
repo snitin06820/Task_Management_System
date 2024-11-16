@@ -1,4 +1,4 @@
-### Task Management System
+## Task Management System
 
 #### **Overview**
 This project consists of developing a Task Management System that allows users to register, log in, create, update, delete, and manage tasks effectively. The system will utilize Java, Spring Boot, and MySQL with an optional frontend for user interaction.
